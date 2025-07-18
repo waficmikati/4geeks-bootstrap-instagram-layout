@@ -2,4 +2,4 @@
 
 This project taught me more advanced techniques and layout with Bootstrap.
 
-[See it live](https://4geeks-bootstrap-instagram-layouts.vercel.app/)
+[See it live](https://instagram-layout-bootsrap-wm.vercel.app/)
